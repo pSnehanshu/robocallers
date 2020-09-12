@@ -4,7 +4,7 @@ These phone numbers keep calling me regularly, when I answer, they hang-up immed
 Although I have blocked all of them, new numbers are always coming up.
 
 If you know anything about them or are facing the same problem,
-please open an [issue](/issues/new) and let me know.
+please open an [issue](../../issues/new) and let me know.
 
 ## Background
 
